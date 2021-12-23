@@ -40,7 +40,6 @@ I'm a Software Developer.
 [<img width="40px" src="./assets/images/git.png" />][github]
 [<img width="40px" src="./assets/images/css.png" />][github]
 [<img width="40px" src="./assets/images/html.png" />][github]
-[<img width="40px" src="./assets/images/Rust.png""/>][github]
-
+[<img width="40px" src="./assets/images/Rust.png" />][github]
 
 [github]: https://github.com/MZubairLohar
