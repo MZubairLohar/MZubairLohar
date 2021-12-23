@@ -10,11 +10,6 @@ I'm a Software Developer.
 - 🌱 I’m currently Learning Web & Mobile Hybrid App Development from Saylani...
 - ⚡ Fun fact: I love tourism & programming ... 
 
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... -->
 
 
 <a href="https://www.linkedin.com/in/muhammad-zubair-lohar-869422198/">
@@ -32,3 +27,16 @@ I'm a Software Developer.
       alt="Zubair's Dev Card"
     />
   </a>
+
+[<img width="40px" src="./assets/images/ethereum.png" />][github]
+[<img width="40px" src="./assets/images/vscode.png" />][github]
+[<img width="40px" src="./assets/images/typescript.png" />][github]
+[<img width="40px" src="./assets/images/sass.png" />][github]
+[<img width="40px" src="./assets/images/redux.png" />][github]
+[<img width="40px" src="./assets/images/github.png" />][github]
+[<img width="40px" src="./assets/images/javascript.png" />][github]
+[<img width="40px" src="./assets/images/react.png" />][github]
+[<img width="40px" src="./assets/images/git.png" />][github]
+[<img width="40px" src="./assets/images/css.png" />][github]
+[<img width="40px" src="./assets/images/html.png" />][github]
+[<img width="40px" src="./assets/images/Rust.png" />][github]
