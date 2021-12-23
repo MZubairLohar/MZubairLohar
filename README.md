@@ -27,7 +27,7 @@ I'm a Software Developer.
       alt="Zubair's Dev Card"
     />
   </a>
-
+<br/>
 [<img width="40px" src="./assets/images/ethereum.png" />][github]
 [<img width="40px" src="./assets/images/vscode.png" />][github]
 [<img width="40px" src="./assets/images/typescript.png" />][github]
@@ -39,7 +39,7 @@ I'm a Software Developer.
 [<img width="40px" src="./assets/images/git.png" />][github]
 [<img width="40px" src="./assets/images/css.png" />][github]
 [<img width="40px" src="./assets/images/html.png" />][github]
-[<img width="40px" src="./assets/images/Rust.png" style="color:white;"/>][github]
+[<img width="40px" src="./assets/images/rustp.png"/>][github]
 
 
 [github]: https://github.com/MZubairLohar
