@@ -1,8 +1,8 @@
-Hi there i'm Zubair !  👋
-
+## Hi there i'm Zubair !  👋
+## I'm a Full Stack Blockchain Developer 💻
 
 <!-- **MZubairLohar/MZubairLohar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-I'm a Software Developer.
+## I'm a Software Developer.
 
 
 - 🔭 I’m currently working as Blockchain on different plateforms...
@@ -29,6 +29,9 @@ I'm a Software Developer.
   </a>
 
 
+
+### Languages and Tools:
+
 [<img width="40px" src="./assets/images/ethereum.png" />][github]
 [<img width="40px" src="./assets/images/vscode.png" />][github]
 [<img width="40px" src="./assets/images/typescript.png" />][github]
@@ -41,5 +44,13 @@ I'm a Software Developer.
 [<img width="40px" src="./assets/images/css.png" />][github]
 [<img width="40px" src="./assets/images/html.png" />][github]
 [<img width="40px" src="./assets/images/Rust.png" />][github]
+
+
+<!-- <details>
+  <summary>:zap: Top Languages</summary>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedali8&layout=compact&langs_count=10)](https://github.com/MZubairLohar/MZubairLohar)
+</details> -->
+
 
 [github]: https://github.com/MZubairLohar
